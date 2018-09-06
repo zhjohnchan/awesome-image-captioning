@@ -103,4 +103,4 @@ License
 To the extent possible under law, [John Chan](https://github.com/zhjohnchan) has waived all copyright and related or neighboring rights to this work.
 
 ## Contributing
-Please read the [contribution guidelines](contributing.md). Then please feel free to send me [pull requests](https://github.com/zhjohnchan/awesome-image-captioning/pulls) or email (gdst_czh@163.com) to add links. 
+Please read the [contribution guidelines](contributing.md). Then please feel free to send me [pull requests](https://github.com/zhjohnchan/awesome-image-captioning/pulls) or email (zhjohnchan@gmail.com) to add links. 
