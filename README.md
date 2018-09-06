@@ -1,4 +1,4 @@
-# Awesome-Image-Captioning
+# Awesome Image Captioning:[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of image captioning and related area. :-)
 
 ## Contents
@@ -94,3 +94,13 @@ A curated list of image captioning and related area. :-)
 * [Improving Image Captioning with Conditional Generative Adversarial Nets](https://arxiv.org/abs/1805.07112) - Chen C et al, arXiv preprint 2018.
 * [CNN+CNN: Convolutional Decoders for Image Captioning](https://arxiv.org/abs/1805.09019) - Wang Q et al, arXiv preprint 2018.
 * [Diverse and Controllable Image Captioning with Part-of-Speech Guidance](https://arxiv.org/abs/1805.12589) - Deshpande A et al, arXiv preprint 2018.
+
+## Licenses
+License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [John Chan](https://github.com/zhjohnchan) has waived all copyright and related or neighboring rights to this work.
+
+## Contributing
+Please read the [contribution guidelines](contributing.md). Then please feel free to send me [pull requests](https://github.com/zhjohnchan/awesome-image-captioning/pulls) or email (gdst_czh@163.com) to add links. 
