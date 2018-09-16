@@ -76,6 +76,7 @@ A curated list of image captioning and related area. :-)
 * [Show-and-Fool: Crafting Adversarial Examples for Neural Image Captioning](https://arxiv.org/abs/1712.02051) - Chen H et al, arXiv preprint 2017.
 
 ### 2018
+* [Neural Baby Talk](https://arxiv.org/abs/1803.09845) - Lu J et al, CVPR 2018.
 * [Convolutional Image Captioning](https://arxiv.org/abs/1711.09151) - Aneja J et al, CVPR 2018.
 * [Learning to Evaluate Image Captioning](https://arxiv.org/abs/1806.06422) - Cui Y et al, CVPR 2018.
 * [Discriminability Objective for Training Descriptive Captions](https://arxiv.org/abs/1803.04376) - Luo R et al, CVPR 2018.
