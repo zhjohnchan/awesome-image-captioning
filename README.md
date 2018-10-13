@@ -91,7 +91,7 @@ A curated list of image captioning and related area. :-)
 * [Temporal-difference Learning with Sampling Baseline for Image Captioning](http://eprints.lancs.ac.uk/123576/1/2018_4.pdf) - Chen H et al, AAAI 2018.
 * [Defoiling Foiled Image Captions](https://arxiv.org/abs/1805.06549) - Wang J et al, NAACL preprint 2018.
 * [Object Counts! Bringing Explicit Detections Back into Image Captioning](https://arxiv.org/abs/1805.00314) - Aneja J et al, NAACL 2018.
-* [Conceptual Captions: A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning](http://www.aclweb.org/anthology/P18-1238) - Sharma P et al, ACL 2018.
+* [Conceptual Captions: A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning](http://www.aclweb.org/anthology/P18-1238) - Sharma P et al, ACL 2018. [[code]](https://github.com/google-research-datasets/conceptual-captions)
 * [Attacking visual language grounding with adversarial examples: A case study on neural image captioning](http://www.aclweb.org/anthology/P18-1241) - Chen H et al, ACL 2018.
 * [Improved Image Captioning with Adversarial Semantic Alignment](https://arxiv.org/abs/1805.00063) - Melnyk I et al, arXiv preprint 2018.
 * [Improving Image Captioning with Conditional Generative Adversarial Nets](https://arxiv.org/abs/1805.07112) - Chen C et al, arXiv preprint 2018.
