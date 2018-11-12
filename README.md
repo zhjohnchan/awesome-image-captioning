@@ -1,8 +1,13 @@
 # Awesome Image Captioning:[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of image captioning and related area. :-)
 
-## Contents
+## Change Log
+- Nov.13 NIPS'18 and AAAI'19 papers updated!
 
+## Table of Contents
+- [Papers](#papers)
+
+## Papers
 ### 2010
 * [I2t: Image parsing to text description](https://ieeexplore.ieee.org/abstract/document/5487377/) - Yao B Z et al, P IEEE 2011.
 
@@ -115,7 +120,7 @@ License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [John Chan](https://github.com/zhjohnchan) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Zhihong Chen](https://github.com/zhjohnchan) has waived all copyright and related or neighboring rights to this work.
 
 ## Contributing
 Please read the [contribution guidelines](contributing.md). Then please feel free to send me [pull requests](https://github.com/zhjohnchan/awesome-image-captioning/pulls) or email (zhjohnchan@gmail.com) to add links. 
