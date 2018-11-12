@@ -14,9 +14,9 @@ A curated list of image captioning and related area. :-)
 
 ### 2015
 * [Show and Tell: A Neural Image Caption Generator](http://arxiv.org/abs/1411.4555) - Vinyals O et al, CVPR 2015. [[code]](https://github.com/karpathy/neuraltalk) [[code]](https://github.com/zsdonghao/Image-Captioning)
-* [Deep Visual-Semantic Alignments for Generating Image Descriptions](http://arxiv.org/abs/1412.2306) - Karpathy A et al, CVPR2015. [[project web]](http://cs.stanford.edu/people/karpathy/deepimagesent/) [[code]](https://github.com/karpathy/neuraltalk)
+* [Deep Visual-Semantic Alignments for Generating Image Descriptions](http://arxiv.org/abs/1412.2306) - Karpathy A et al, CVPR 2015. [[project web]](http://cs.stanford.edu/people/karpathy/deepimagesent/) [[code]](https://github.com/karpathy/neuraltalk)
 * [Mind’s Eye: A Recurrent Visual Representation for Image Caption Generation](http://www.cs.cmu.edu/~xinleic/papers/cvpr15_rnn.pdf) - Chen X et al, CVPR 2015.
-* [Long-term Recurrent Convolutional Networks for Visual Recognition and Description](http://arxiv.org/abs/1411.4389) - Donahue J et al, CVPR2015. [[code]](https://github.com/BVLC/caffe/pull/2033) [[project web]](http://jeffdonahue.com/lrcn/)
+* [Long-term Recurrent Convolutional Networks for Visual Recognition and Description](http://arxiv.org/abs/1411.4389) - Donahue J et al, CVPR 2015. [[code]](https://github.com/BVLC/caffe/pull/2033) [[project web]](http://jeffdonahue.com/lrcn/)
 * [Guiding the Long-Short Term Memory Model for Image Caption Generation](https://arxiv.org/abs/1509.04942) - Jia X et al, ICCV 2015.
 * [Learning like a Child: Fast Novel Visual Concept Learning from Sentence Descriptions of Images](http://arxiv.org/abs/1504.06692) - Mao J et al, ICCV 2015. [[code]](https://github.com/mjhucla/NVC-Dataset)
 * [Expressing an Image Stream with a Sequence of Natural Sentences](http://papers.nips.cc/paper/5776-expressing-an-image-stream-with-a-sequence-of-natural-sentences.pdf) - Park C C et al, NIPS 2015. [[code]](https://github.com/cesc-park/CRCN)
@@ -91,6 +91,8 @@ A curated list of image captioning and related area. :-)
 * [Learning to Guide Decoding for Image Captioning](https://arxiv.org/abs/1804.00887) - Jiang W et al, AAAI 2018.
 * [Stack-Captioning: Coarse-to-Fine Learning for Image Captioning](https://arxiv.org/abs/1709.03376) - Gu J et al, AAAI 2018.
 * [Temporal-difference Learning with Sampling Baseline for Image Captioning](http://eprints.lancs.ac.uk/123576/1/2018_4.pdf) - Chen H et al, AAAI 2018.
+* [Partially-Supervised Image Captioning](https://arxiv.org/pdf/1806.06004.pdf) - Anderson P et al, NIPS 2018.
+* [A Neural Compositional Paradigm for Image Captioning](https://arxiv.org/pdf/1810.09630.pdf) - Dai B et al, NIPS 2018.
 * [Defoiling Foiled Image Captions](https://arxiv.org/abs/1805.06549) - Wang J et al, NAACL preprint 2018.
 * [Object Counts! Bringing Explicit Detections Back into Image Captioning](https://arxiv.org/abs/1805.00314) - Aneja J et al, NAACL 2018.
 * [Conceptual Captions: A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning](http://www.aclweb.org/anthology/P18-1238) - Sharma P et al, ACL 2018. [[code]](https://github.com/google-research-datasets/conceptual-captions)
@@ -99,6 +101,14 @@ A curated list of image captioning and related area. :-)
 * [Improving Image Captioning with Conditional Generative Adversarial Nets](https://arxiv.org/abs/1805.07112) - Chen C et al, arXiv preprint 2018.
 * [CNN+CNN: Convolutional Decoders for Image Captioning](https://arxiv.org/abs/1805.09019) - Wang Q et al, arXiv preprint 2018.
 * [Diverse and Controllable Image Captioning with Part-of-Speech Guidance](https://arxiv.org/abs/1805.12589) - Deshpande A et al, arXiv preprint 2018.
+
+### 2019
+* Meta Learning for Image Captioning - Li N et al, AAAI 2019.
+* Learning Object Context for Dense Captioning - Li X et al, AAAI 2019.
+* Hierarchical Attention Network for Image Captioning - Wang W et al, AAAI 2019.
+* Deliberate Residual based Attention Network for Image Captioning - Gao L et al, AAAI 2019.
+* Improving Image Captioning with Conditional Generative Adversarial Nets - Chen C et al, AAAI 2019.
+* Connecting Language to Images: A Progressive Attention-Guided Network for Simultaneous Image Captioning and Language Grounding - Song L et al, AAAI 2019.
 
 ## Licenses
 License
