@@ -6,6 +6,13 @@
 
 A curated list of image captioning and related area. :-)
 
+## Contributing
+Please feel free to send me [pull requests](https://github.com/zhjohnchan/awesome-image-captioning/pulls) or email (zhjohnchan@gmail.com) to add links.
+Markdown format:
+```markdown
+- [Paper Name](link) - Author 1 et al, `Conference Year`. [[code]](link)
+```
+
 ## Change Log
 - Nov.13 NIPS'18 and AAAI'19 papers updated!
 - Dec.04 More implementations updated!
@@ -147,6 +154,3 @@ A curated list of image captioning and related area. :-)
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Zhihong Chen](https://github.com/zhjohnchan) has waived all copyright and related or neighboring rights to this work.
-
-## Contributing
-Please read the [contribution guidelines](contributing.md). Then please feel free to send me [pull requests](https://github.com/zhjohnchan/awesome-image-captioning/pulls) or email (zhjohnchan@gmail.com) to add links. 
