@@ -112,8 +112,8 @@ Markdown format:
 * [Learning to Guide Decoding for Image Captioning](https://arxiv.org/abs/1804.00887) - Jiang W et al, `AAAI 2018`.
 * [Stack-Captioning: Coarse-to-Fine Learning for Image Captioning](https://arxiv.org/abs/1709.03376) - Gu J et al, `AAAI 2018`. [[code]](https://github.com/gujiuxiang/Stack-Captioning)
 * [Temporal-difference Learning with Sampling Baseline for Image Captioning](http://eprints.lancs.ac.uk/123576/1/2018_4.pdf) - Chen H et al, `AAAI 2018`.
-* [Partially-Supervised Image Captioning](https://arxiv.org/pdf/1806.06004.pdf) - Anderson P et al, `NIPS 2018`.
-* [A Neural Compositional Paradigm for Image Captioning](https://arxiv.org/pdf/1810.09630.pdf) - Dai B et al, `NIPS 2018`.
+* [Partially-Supervised Image Captioning](https://arxiv.org/pdf/1806.06004.pdf) - Anderson P et al, `NeurIPS 2018`.
+* [A Neural Compositional Paradigm for Image Captioning](https://arxiv.org/pdf/1810.09630.pdf) - Dai B et al, `NeurIPS 2018`.
 * [Defoiling Foiled Image Captions](https://arxiv.org/abs/1805.06549) - Wang J et al, `NAACL 2018`.
 * [Punny Captions: Witty Wordplay in Image Descriptions](https://arxiv.org/abs/1704.08224) - Chandrasekaran A et al, `NAACL 2018`. [[code]](https://github.com/purvaten/punny_captions)
 * [Object Counts! Bringing Explicit Detections Back into Image Captioning](https://arxiv.org/abs/1805.00314) - Aneja J et al, `NAACL 2018`.
