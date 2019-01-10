@@ -14,7 +14,7 @@ Markdown format:
 ```
 
 ## Change Log
-- Nov.13 NIPS'18 and AAAI'19 papers updated!
+- Nov.13 NeurIPS'18 and AAAI'19 papers updated!
 - Dec.04 More implementations updated!
 
 ## Table of Contents
