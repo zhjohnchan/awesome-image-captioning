@@ -16,11 +16,13 @@ Markdown format:
 ## Change Log
 - Nov.13 NeurIPS'18 and AAAI'19 papers updated!
 - Dec.04 More implementations updated!
+- Mar.04 Image captioning challenge updated!
 
 ## Table of Contents
 - [Papers](#papers)
   - [Survey](#survey)
   - [Before](#before) - [2015](#2015) - [2016](#2016) - [2017](#2017) - [2018](#2018) - [2019](#2019)
+- [Image Captioning Challenge](#image-captioning-challenge)
 - [Popular Implementations](#popular-implementations)
   - [PyTorch](#pytorch)
   - [TensorFlow](#tensorflow)
@@ -131,6 +133,10 @@ Markdown format:
 * Deliberate Residual based Attention Network for Image Captioning - Gao L et al, `AAAI 2019`.
 * Improving Image Captioning with Conditional Generative Adversarial Nets - Chen C et al, `AAAI 2019`.
 * Connecting Language to Images: A Progressive Attention-Guided Network for Simultaneous Image Captioning and Language Grounding - Song L et al, `AAAI 2019`.
+
+## Image Captioning Challenge
+* [Microsoft COCO Image Captioning](https://competitions.codalab.org/competitions/3221)
+* [Google AI Blog: Conceptual Captions](http://ai.googleblog.com/2018/09/conceptual-captions-new-dataset-and.html)
 
 ## Popular Implementations
 ### PyTorch
