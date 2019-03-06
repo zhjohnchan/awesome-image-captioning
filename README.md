@@ -22,6 +22,7 @@ Markdown format:
 - [Papers](#papers)
   - [Survey](#survey)
   - [Before](#before) - [2015](#2015) - [2016](#2016) - [2017](#2017) - [2018](#2018) - [2019](#2019)
+- [Dataset](#dataset)
 - [Image Captioning Challenge](#image-captioning-challenge)
 - [Popular Implementations](#popular-implementations)
   - [PyTorch](#pytorch)
@@ -133,6 +134,15 @@ Markdown format:
 * Deliberate Residual based Attention Network for Image Captioning - Gao L et al, `AAAI 2019`.
 * Improving Image Captioning with Conditional Generative Adversarial Nets - Chen C et al, `AAAI 2019`.
 * Connecting Language to Images: A Progressive Attention-Guided Network for Simultaneous Image Captioning and Language Grounding - Song L et al, `AAAI 2019`.
+
+## Dataset
+* [MS COCO](http://cocodataset.org/), LANG: `English`.
+* [Flickr 8k](https://forms.illinois.edu/sec/1713398), LANG: `English`.
+* [Flickr 30k](http://shannon.cs.illinois.edu/DenotationGraph/), LANG: `English`.
+* [AI Challenger](https://challenger.ai/dataset/caption), LANG: `Chinese`.
+* [Visual Genome](http://visualgenome.org/), LANG: `English`.
+* [SBUCaptionedPhotoDataset](http://www.cs.virginia.edu/~vicente/sbucaptions/), LANG: `English`.
+* [IAPR TC-12](https://www.imageclef.org/photodata), LANG: `English, German and Spanish`.
 
 ## Image Captioning Challenge
 * [Microsoft COCO Image Captioning](https://competitions.codalab.org/competitions/3221)
