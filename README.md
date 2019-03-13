@@ -17,6 +17,7 @@ Markdown format:
 - Nov.13 NeurIPS'18 and AAAI'19 papers updated!
 - Dec.04 More implementations updated!
 - Mar.04 Image captioning challenge updated!
+- Mar.13 CVPR'19 paper updated!
 
 ## Table of Contents
 - [Papers](#papers)
@@ -128,11 +129,12 @@ Markdown format:
 * [Diverse and Controllable Image Captioning with Part-of-Speech Guidance](https://arxiv.org/abs/1805.12589) - Deshpande A et al, `arXiv preprint 2018`.
 
 ### 2019
+* [Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://arxiv.org/abs/1811.10652v2) - Cornia M et al, `CVPR 2019`. [[code]](https://github.com/aimagelab/show-control-and-tell)
 * Meta Learning for Image Captioning - Li N et al, `AAAI 2019`.
 * Learning Object Context for Dense Captioning - Li X et al, `AAAI 2019`.
 * Hierarchical Attention Network for Image Captioning - Wang W et al, `AAAI 2019`.
-* Deliberate Residual based Attention Network for Image Captioning - Gao L et al, `AAAI 2019`.
-* Improving Image Captioning with Conditional Generative Adversarial Nets - Chen C et al, `AAAI 2019`.
+* [Deliberate Residual based Attention Network for Image Captioning](https://www.aaai.org/Papers/AAAI/2019/AAAI-GaoLianli3.5390.pdf) - Gao L et al, `AAAI 2019`.
+* [Improving Image Captioning with Conditional Generative Adversarial Nets](https://arxiv.org/abs/1805.07112) - Chen C et al, `AAAI 2019`.
 * Connecting Language to Images: A Progressive Attention-Guided Network for Simultaneous Image Captioning and Language Grounding - Song L et al, `AAAI 2019`.
 
 ## Dataset
