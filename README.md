@@ -1,4 +1,4 @@
-# Awesome Image Captioning:[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Image Captioning[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
   <img width="250" src="https://camo.githubusercontent.com/1131548cf666e1150ebd2a52f44776d539f06324/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f6d61737465722f6d656469612f6c6f676f2e737667" "Awesome!">
@@ -12,12 +12,6 @@ Markdown format:
 ```markdown
 - [Paper Name](link) - Author 1 et al, `Conference Year`. [[code]](link)
 ```
-
-## Change Log
-- Nov.13 NeurIPS'18 and AAAI'19 papers updated!
-- Dec.04 More implementations updated!
-- Mar.04 Image captioning challenge updated!
-- Mar.13 CVPR'19 paper updated!
 
 ## Table of Contents
 - [Papers](#papers)
