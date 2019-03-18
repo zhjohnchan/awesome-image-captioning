@@ -12,6 +12,11 @@ Markdown format:
 ```markdown
 - [Paper Name](link) - Author 1 et al, `Conference Year`. [[code]](link)
 ```
+## Change Log
+- Nov.13 NeurIPS'18 and AAAI'19 papers updated!
+- Dec.04 More implementations updated!
+- Mar.04 Image captioning challenge updated!
+- Mar.13 CVPR'19 paper updated!
 
 ## Table of Contents
 - [Papers](#papers)
