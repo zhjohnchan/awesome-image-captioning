@@ -128,6 +128,7 @@ Markdown format:
 * [Diverse and Controllable Image Captioning with Part-of-Speech Guidance](https://arxiv.org/abs/1805.12589) - Deshpande A et al, `arXiv preprint 2018`.
 
 ### 2019
+* [Unsupervised Image Captioning](https://arxiv.org/pdf/1811.10787.pdf) - Yang F et al, `CVPR 2019`. [[code]](https://github.com/fengyang0317/unsupervised_captioning)
 * [Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://arxiv.org/abs/1811.10652v2) - Cornia M et al, `CVPR 2019`. [[code]](https://github.com/aimagelab/show-control-and-tell)
 * Meta Learning for Image Captioning - Li N et al, `AAAI 2019`.
 * Learning Object Context for Dense Captioning - Li X et al, `AAAI 2019`.
@@ -154,6 +155,7 @@ Markdown format:
 * [ruotianluo/self-critical.pytorch](https://github.com/ruotianluo/self-critical.pytorch)
 * [ruotianluo/ImageCaptioning.pytorch](https://github.com/ruotianluo/ImageCaptioning.pytorch)
 * [jiasenlu/NeuralBabyTalk](https://github.com/jiasenlu/NeuralBabyTalk)
+* [sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning)
 ### TensorFlow
 * [tensorflow/models/im2txt](https://github.com/tensorflow/models/tree/master/research/im2txt)
 * [DeepRNN/image_captioning](https://github.com/DeepRNN/image_captioning)
