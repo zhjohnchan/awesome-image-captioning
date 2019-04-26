@@ -66,6 +66,7 @@ Markdown format:
 * [Bootstrap, Review, Decode: Using Out-of-Domain Textual Data to Improve Image Captioning](https://arxiv.org/abs/1611.05321) - Chen W et al, `arXiv preprint 2016`. [[code]](https://github.com/wenhuchen/Semi-Supervised-Image-Captioning)
 * [Recurrent Image Captioner: Describing Images with Spatial-Invariant Transformation and Attention Filtering](https://arxiv.org/abs/1612.04949) - Liu H et al, `arXiv preprint 2016`.
 * [Recurrent Highway Networks with Language CNN for Image Captioning](https://arxiv.org/abs/1612.07086) - Gu J et al, `arXiv preprint  2016`.
+* .[Deep Compositional Captioning: Describing Novel Object Categories without Paired Training Data](https://arxiv.org/abs/1511.05284#) - Lisa Anne Hendricks et al, `arXiv preprint 2016`. [[code]](https://github.com/LisaAnne/DCC)
 
 ### 2017
 * [Captioning Images with Diverse Objects](http://arxiv.org/abs/1606.07770) - Venugopalan S et al, `CVPR 2017`. [[code]](https://github.com/vsubhashini/noc)
