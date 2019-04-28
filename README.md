@@ -17,6 +17,7 @@ Markdown format:
 - Dec.04 More implementations updated!
 - Mar.04 Image captioning challenge updated!
 - Mar.13 CVPR'19 paper updated!
+- Apr.28 more CVPR'19 papers updated!
 
 ## Table of Contents
 - [Papers](#papers)
@@ -129,9 +130,20 @@ Markdown format:
 
 ### 2019
 * [Unsupervised Image Captioning](https://arxiv.org/abs/1811.10787) - Yang F et al, `CVPR 2019`. [[code]](https://github.com/fengyang0317/unsupervised_captioning)
+* [Engaging Image Captioning Via Personality](https://arxiv.org/abs/1810.10665) - Shuster K et al, `CVPR 2019`.
+* [Pointing Novel Objects in Image Captioning](https://arxiv.org/abs/1904.11251) - Li Y et al, `CVPR 2019`.
+* [Context and Attribute Grounded Dense Captioning](https://arxiv.org/abs/1904.01410) - Yin G et al, `CVPR 2019`.
+* [Auto-Encoding Scene Graphs for Image Captioning](https://arxiv.org/abs/1812.02378) - Yang X et al, `CVPR 2019`.
+* [Self-critical n-step Training for Image Captioning](https://arxiv.org/abs/1904.06861) - Gao J et al, `CVPR 2019`.
+* [Intention Oriented Image Captions with Guiding Objects](https://arxiv.org/abs/1811.07662) - Zheng Y et al, `CVPR 2019`.
+* [Describing like humans: on diversity in image captioning](https://arxiv.org/abs/1903.12020) - Wang Q et al, `CVPR 2019`.
+* [CapSal: Leveraging Captioning to Boost Semantics for Salient Object Detection](https://github.com/zhangludl/code-and-dataset-for-CapSal) - Zhang L et al, `CVPR 2019`. [[code]](https://github.com/zhangludl/code-and-dataset-for-CapSal)
+* [Fast, Diverse and Accurate Image Captioning Guided By Part-of-Speech](https://arxiv.org/abs/1805.12589) - Aditya D et al, `CVPR 2019`.
+* [Good News, Everyone! Context driven entity-aware captioning for news images](https://arxiv.org/abs/1904.01475) - Biten A F et al, `CVPR 2019`.
+* [Dense Relational Captioning: Triple-Stream Networks for Relationship-Based Captioning](https://arxiv.org/abs/1903.05942) - Kim D et al, `CVPR 2019`.
 * [Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://arxiv.org/abs/1811.10652v2) - Cornia M et al, `CVPR 2019`. [[code]](https://github.com/aimagelab/show-control-and-tell)
 * Meta Learning for Image Captioning - Li N et al, `AAAI 2019`.
-* Learning Object Context for Dense Captioning - Li X et al, `AAAI 2019`.
+* [Learning Object Context for Dense Captioning](http://vipl.ict.ac.cn/homepage/jsq/publication/2018-Li-AAAI-Learning-Object-Context-for-Dense-Captioning.pdf) - Li X et al, `AAAI 2019`.
 * Hierarchical Attention Network for Image Captioning - Wang W et al, `AAAI 2019`.
 * [Deliberate Residual based Attention Network for Image Captioning](https://www.aaai.org/Papers/AAAI/2019/AAAI-GaoLianli3.5390.pdf) - Gao L et al, `AAAI 2019`.
 * [Improving Image Captioning with Conditional Generative Adversarial Nets](https://arxiv.org/abs/1805.07112) - Chen C et al, `AAAI 2019`.
