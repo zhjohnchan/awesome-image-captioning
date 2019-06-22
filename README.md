@@ -112,7 +112,10 @@ Markdown format:
 ](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_GroupCap_Group-Based_Image_CVPR_2018_paper.pdf) - Chen F et al, `CVPR 2018`.
 * [Unpaired Image Captioning by Language Pivoting](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jiuxiang_Gu_Unpaired_Image_Captioning_ECCV_2018_paper.pdf) - Gu J et al, `ECCV 2018`.
 * [Recurrent Fusion Network for Image Captioning](https://arxiv.org/abs/1807.09986) - Jiang W et al, `ECCV 2018`.
+* [Exploring Visual Relationship for Image Captioning](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ting_Yao_Exploring_Visual_Relationship_ECCV_2018_paper.pdf) - Yao T et al, `ECCV 2018`.
 * [Rethinking the Form of Latent States in Image Captioning](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bo_Dai_Rethinking_the_Form_ECCV_2018_paper.pdf) - Dai B et al, `ECCV 2018`. [[code]](https://github.com/doubledaibo/2dcaption_eccv2018)
+* [Boosted Attention: Leveraging Human Attention for Image Captioning](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shi_Chen_Boosted_Attention_Leveraging_ECCV_2018_paper.pdf) - Chen S et al, `ECCV 2018`.
+* ["Factual" or "Emotional": Stylized Image Captioning with Adaptive Learning and Attention](https://arxiv.org/abs/1807.03871) - Chen T et al, `ECCV 2018`.
 * [Learning to Guide Decoding for Image Captioning](https://arxiv.org/abs/1804.00887) - Jiang W et al, `AAAI 2018`.
 * [Stack-Captioning: Coarse-to-Fine Learning for Image Captioning](https://arxiv.org/abs/1709.03376) - Gu J et al, `AAAI 2018`. [[code]](https://github.com/gujiuxiang/Stack-Captioning)
 * [Temporal-difference Learning with Sampling Baseline for Image Captioning](http://eprints.lancs.ac.uk/123576/1/2018_4.pdf) - Chen H et al, `AAAI 2018`.
