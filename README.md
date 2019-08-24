@@ -57,6 +57,7 @@ Markdown format:
 * [Image captioning with semantic attention](https://arxiv.org/abs/1603.03925) - You Q et al, `CVPR 2016`. [[code]](https://github.com/chapternewscu/image-captioning-with-semantic-attention)
 * [DenseCap: Fully Convolutional Localization Networks for Dense Captioning](http://arxiv.org/abs/1511.07571) - Johnson J et al, `CVPR 2016`. [[code]](https://github.com/jcjohnson/densecap)
 * [What value do explicit high level concepts have in vision to language problems?](http://arxiv.org/abs/1506.01144) - Wu Q et al, `CVPR 2016`.
+* [Deep Compositional Captioning: Describing Novel Object Categories without Paired Training Data](https://arxiv.org/abs/1511.05284#) - Lisa Anne Hendricks et al, `CVPR 2016`. [[code]](https://github.com/LisaAnne/DCC)
 * [SPICE: Semantic Propositional Image Caption Evaluation](http://www.panderson.me/images/SPICE.pdf) - Anderson P et al, `ECCV 2016`. [[code]](https://github.com/peteanderson80/SPICE)
 * [Image Captioning with Deep Bidirectional LSTMs](http://arxiv.org/abs/1604.00790) - Wang C et al, `ACMMM 2016`. [[code]](https://github.com/deepsemantic/image_captioning)
 * [Multimodal Pivots for Image Caption Translation](http://arxiv.org/abs/1511.02793) - Hitschler J et al, `ACL 2016`.
@@ -143,14 +144,17 @@ Markdown format:
 * [CapSal: Leveraging Captioning to Boost Semantics for Salient Object Detection](https://github.com/zhangludl/code-and-dataset-for-CapSal) - Zhang L et al, `CVPR 2019`. [[code]](https://github.com/zhangludl/code-and-dataset-for-CapSal)
 * [Fast, Diverse and Accurate Image Captioning Guided By Part-of-Speech](https://arxiv.org/abs/1805.12589) - Aditya D et al, `CVPR 2019`.
 * [Good News, Everyone! Context driven entity-aware captioning for news images](https://arxiv.org/abs/1904.01475) - Biten A F et al, `CVPR 2019`. [[code]](https://github.com/furkanbiten/GoodNews)
-* [Dense Relational Captioning: Triple-Stream Networks for Relationship-Based Captioning](https://arxiv.org/abs/1903.05942) - Kim D et al, `CVPR 2019`.
+* [Dense Relational Captioning: Triple-Stream Networks for Relationship-Based Captioning](https://arxiv.org/abs/1903.05942) - Kim D et al, `CVPR 2019`. [[code]](https://github.com/Dong-JinKim/DenseRelationalCaptioning)
 * [Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://arxiv.org/abs/1811.10652v2) - Cornia M et al, `CVPR 2019`. [[code]](https://github.com/aimagelab/show-control-and-tell)
-* Meta Learning for Image Captioning - Li N et al, `AAAI 2019`.
+* [Meta Learning for Image Captioning](https://aaai.org/ojs/index.php/AAAI/article/view/4883/4756) - Li N et al, `AAAI 2019`.
 * [Learning Object Context for Dense Captioning](http://vipl.ict.ac.cn/homepage/jsq/publication/2018-Li-AAAI-Learning-Object-Context-for-Dense-Captioning.pdf) - Li X et al, `AAAI 2019`.
-* Hierarchical Attention Network for Image Captioning - Wang W et al, `AAAI 2019`.
+* [Hierarchical Attention Network for Image Captioning](https://aaai.org/ojs/index.php/AAAI/article/view/4924/4797) - Wang W et al, `AAAI 2019`.
 * [Deliberate Residual based Attention Network for Image Captioning](https://www.aaai.org/Papers/AAAI/2019/AAAI-GaoLianli3.5390.pdf) - Gao L et al, `AAAI 2019`.
 * [Improving Image Captioning with Conditional Generative Adversarial Nets](https://arxiv.org/abs/1805.07112) - Chen C et al, `AAAI 2019`.
-* Connecting Language to Images: A Progressive Attention-Guided Network for Simultaneous Image Captioning and Language Grounding - Song L et al, `AAAI 2019`.
+* [Connecting Language to Images: A Progressive Attention-Guided Network for Simultaneous Image Captioning and Language Grounding](https://aaai.org/ojs/index.php/AAAI/article/view/4916/4789) - Song L et al, `AAAI 2019`.
+* [Dense Procedure Captioning in Narrated Instructional Videos](https://www.msra.cn/wp-content/uploads/2019/06/DenseProcedureCaptioninginNarratedInstructionalVideos.pdf) - Shi B et al, `ACL 2019`.
+* [Informative Image Captioning with External Sources of Information](https://arxiv.org/pdf/1906.08876.pdf) - Zhao S et al, `ACL 2019`.
+* [Bridging by Word: Image Grounded Vocabulary Construction for Visual Captioning](https://www.aclweb.org/anthology/P19-1652) - Fan Z et al, `ACL 2019`.
 
 ## Dataset
 * [nocaps](https://nocaps.org/), LANG: `English`
