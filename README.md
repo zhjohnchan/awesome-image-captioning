@@ -135,12 +135,10 @@ Markdown format:
 * [Engaging Image Captioning Via Personality](https://arxiv.org/abs/1810.10665) - Shuster K et al, `CVPR 2019`.
 * [Pointing Novel Objects in Image Captioning](https://arxiv.org/abs/1904.11251) - Li Y et al, `CVPR 2019`.
 * [Auto-Encoding Scene Graphs for Image Captioning](https://arxiv.org/abs/1812.02378) - Yang X et al, `CVPR 2019`.
-* [Context and Attribute Grounded Dense Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yin_Context_and_Attribute_Grounded_Dense_Captioning_CVPR_2019_paper.pdf) - Yin G et al, `CVPR 2019`.
 * [Context and Attribute Grounded Dense Captioning](https://arxiv.org/abs/1904.01410) - Yin G et al, `CVPR 2019`.
 * [Look Back and Predict Forward in Image Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Qin_Look_Back_and_Predict_Forward_in_Image_Captioning_CVPR_2019_paper.pdf) - Qin Y et al, `CVPR 2019`.
 * [Self-critical n-step Training for Image Captioning](https://arxiv.org/abs/1904.06861) - Gao J et al, `CVPR 2019`.
 * [Intention Oriented Image Captions with Guiding Objects](https://arxiv.org/abs/1811.07662) - Zheng Y et al, `CVPR 2019`.
-* [Describing Like Humans: On Diversity in Image Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Describing_Like_Humans_On_Diversity_in_Image_Captioning_CVPR_2019_paper.pdf) - Wang Q et al, `CVPR 2019`.
 * [Describing like humans: on diversity in image captioning](https://arxiv.org/abs/1903.12020) - Wang Q et al, `CVPR 2019`.
 * [Adversarial Semantic Alignment for Improved Image Captions](http://openaccess.thecvf.com/content_CVPR_2019/papers/Dognin_Adversarial_Semantic_Alignment_for_Improved_Image_Captions_CVPR_2019_paper.pdf) - Dognin P et al, `CVPR 2019`.
 * [MSCap: Multi-Style Image Captioning With Unpaired Stylized Text](http://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_MSCap_Multi-Style_Image_Captioning_With_Unpaired_Stylized_Text_CVPR_2019_paper.pdf) - Gao L et al, `CVPR 2019`.
