@@ -157,6 +157,11 @@ Markdown format:
 * [Dense Procedure Captioning in Narrated Instructional Videos](https://www.msra.cn/wp-content/uploads/2019/06/DenseProcedureCaptioninginNarratedInstructionalVideos.pdf) - Shi B et al, `ACL 2019`.
 * [Informative Image Captioning with External Sources of Information](https://arxiv.org/pdf/1906.08876.pdf) - Zhao S et al, `ACL 2019`.
 * [Bridging by Word: Image Grounded Vocabulary Construction for Visual Captioning](https://www.aclweb.org/anthology/P19-1652) - Fan Z et al, `ACL 2019`.
+[Look and Modify: Modification Networks for Image Captioning](https://arxiv.org/abs/1909.03169) - Sammani et al, `BMVC 2019`. [code](https://github.com/fawazsammani/look-and-modify)
+[Show, Infer and Tell: Contextual Inference for Creative Captioning](https://bmvc2019.org/wp-content/uploads/papers/0655-paper.pdf) - Khare et al, `BMVC 2019`. [code](https://github.com/ankit1khare/Show_Infer_and_Tell-CIC)
+[SC-RANK: Improving Convolutional Image Captioning with Self-Critical Learning and Ranking Metric-based Reward](https://bmvc2019.org/wp-content/uploads/papers/0936-paper.pdf) - Yan et al, `BMVC2019`
+[Image Captioning with Unseen Objects](https://bmvc2019.org/wp-content/uploads/papers/0124-paper.pdf) - Demirel et al, `BMVC2019`
+[Attention on Attention for Image Captioning](https://arxiv.org/abs/1908.06954) - Huang et al, `ICCV2019`. [code](https://github.com/husthuaan/AoANet)
 
 ## Dataset
 * [nocaps](https://nocaps.org/), LANG: `English`
