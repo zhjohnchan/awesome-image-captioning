@@ -162,6 +162,7 @@ Markdown format:
 * [SC-RANK: Improving Convolutional Image Captioning with Self-Critical Learning and Ranking Metric-based Reward](https://bmvc2019.org/wp-content/uploads/papers/0936-paper.pdf) - Yan et al, `BMVC2019`
 * [Image Captioning with Unseen Objects](https://bmvc2019.org/wp-content/uploads/papers/0124-paper.pdf) - Demirel et al, `BMVC2019`
 * [Attention on Attention for Image Captioning](https://arxiv.org/abs/1908.06954) - Huang et al, `ICCV2019`. [code](https://github.com/husthuaan/AoANet)
+* [Entangled Transformer for Image Captioning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Entangled_Transformer_for_Image_Captioning_ICCV_2019_paper.pdf) - Li et al, `ICCV2019`
 
 ## Dataset
 * [nocaps](https://nocaps.org/), LANG: `English`
