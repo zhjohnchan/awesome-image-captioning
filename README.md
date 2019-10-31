@@ -16,6 +16,7 @@ Markdown format:
 - Mar.04 Image captioning challenge updated!
 - Mar.13 CVPR'19 paper updated!
 - Apr.28 more CVPR'19 papers updated!
+- Oct. 31 ICCV and BMVC updated
 
 ## Table of Contents
 - [Papers](#papers)
