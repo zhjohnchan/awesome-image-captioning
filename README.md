@@ -165,6 +165,9 @@ Markdown format:
 * [Attention on Attention for Image Captioning](https://arxiv.org/abs/1908.06954) - Huang et al, `ICCV 2019`. [code](https://github.com/husthuaan/AoANet)
 * [Entangled Transformer for Image Captioning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Entangled_Transformer_for_Image_Captioning_ICCV_2019_paper.pdf) - Li et al, `ICCV 2019`
 * [Adaptively Aligned Image Captioning via Adaptive Attention Time](https://arxiv.org/pdf/1909.09060.pdf) - Huang et al, `NeurIPS 2019`. [code](https://github.com/husthuaan/AAT)
+* [Hierarchy Parsing for Image Captioning](https://arxiv.org/pdf/1909.03918.pdf) - Yao et al, `ICCV 2019`
+* [Learning to Collocate Neural Modules for Image Captioning](https://arxiv.org/pdf/1904.08608.pdf) - Yang et al, `ICCV 2019`
+* [Reflective Decoding Network for Image Captioning](https://arxiv.org/pdf/1908.11824.pdf) - Ke at al, `ICCV 2019`
 
 ## Dataset
 * [nocaps](https://nocaps.org/), LANG: `English`
