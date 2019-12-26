@@ -159,15 +159,15 @@ Markdown format:
 * [Informative Image Captioning with External Sources of Information](https://arxiv.org/pdf/1906.08876.pdf) - Zhao S et al, `ACL 2019`.
 * [Bridging by Word: Image Grounded Vocabulary Construction for Visual Captioning](https://www.aclweb.org/anthology/P19-1652) - Fan Z et al, `ACL 2019`.
 * [Image Captioning with Unseen Objects](https://bmvc2019.org/wp-content/uploads/papers/0124-paper.pdf) - Demirel et al, `BMVC 2019`.
-* [Look and Modify: Modification Networks for Image Captioning](https://arxiv.org/abs/1909.03169) - Sammani et al, `BMVC 2019`. [code](https://github.com/fawazsammani/look-and-modify)
-* [Show, Infer and Tell: Contextual Inference for Creative Captioning](https://bmvc2019.org/wp-content/uploads/papers/0655-paper.pdf) - Khare et al, `BMVC 2019`. [code](https://github.com/ankit1khare/Show_Infer_and_Tell-CIC)
+* [Look and Modify: Modification Networks for Image Captioning](https://arxiv.org/abs/1909.03169) - Sammani et al, `BMVC 2019`. [[code]](https://github.com/fawazsammani/look-and-modify)
+* [Show, Infer and Tell: Contextual Inference for Creative Captioning](https://bmvc2019.org/wp-content/uploads/papers/0655-paper.pdf) - Khare et al, `BMVC 2019`. [[code]](https://github.com/ankit1khare/Show_Infer_and_Tell-CIC)
 * [SC-RANK: Improving Convolutional Image Captioning with Self-Critical Learning and Ranking Metric-based Reward](https://bmvc2019.org/wp-content/uploads/papers/0936-paper.pdf) - Yan et al, `BMVC 2019`.
 * [Hierarchy Parsing for Image Captioning](https://arxiv.org/pdf/1909.03918.pdf) - Yao et al, `ICCV 2019`.
 * [Entangled Transformer for Image Captioning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Entangled_Transformer_for_Image_Captioning_ICCV_2019_paper.pdf) - Li et al, `ICCV 2019`.
-* [Attention on Attention for Image Captioning](https://arxiv.org/abs/1908.06954) - Huang et al, `ICCV 2019`. [code](https://github.com/husthuaan/AoANet)
+* [Attention on Attention for Image Captioning](https://arxiv.org/abs/1908.06954) - Huang et al, `ICCV 2019`. [[code]](https://github.com/husthuaan/AoANet)
 * [Reflective Decoding Network for Image Captioning](https://arxiv.org/pdf/1908.11824.pdf) - Ke at al, `ICCV 2019`.
 * [Learning to Collocate Neural Modules for Image Captioning](https://arxiv.org/pdf/1904.08608.pdf) - Yang et al, `ICCV 2019`.
-* [Adaptively Aligned Image Captioning via Adaptive Attention Time](https://arxiv.org/pdf/1909.09060.pdf) - Huang et al, `NeurIPS 2019`. [code](https://github.com/husthuaan/AAT)
+* [Adaptively Aligned Image Captioning via Adaptive Attention Time](https://arxiv.org/pdf/1909.09060.pdf) - Huang et al, `NeurIPS 2019`. [[code]](https://github.com/husthuaan/AAT)
 
 ## Dataset
 * [nocaps](https://nocaps.org/), LANG: `English`
