@@ -210,7 +210,7 @@ Markdown format:
 * [Decoupled Box Proposal and Featurization with Ultrafine-Grained Semantic Labels Improve Image Captioning and Visual Question Answering](https://arxiv.org/pdf/1909.02097) - Changpinyo et al, `EMNLP 2019`.
 
 ### 2020
-#### *`AAAI 2019`*
+#### *`AAAI 2020`*
 * [MemCap: Memorizing Style Knowledge for Image Captioning]() - Zhao et al, `AAAI 2020`.
 * [Unified Vision-Language Pre-Training for Image Captioning and VQA]() - Zhou et al, `AAAI 2020`.
 * [Show, Recall, and Tell: Image Captioning with Recall Mechanism]() - Wang et al, `AAAI 2020`.
