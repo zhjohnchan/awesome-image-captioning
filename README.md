@@ -7,13 +7,14 @@
 A curated list of image captioning and related area. :-)
 
 ## Contributing
-Please feel free to send me [pull requests](https://github.com/zhjohnchan/awesome-image-captioning/pulls) or email (zhjohnchan@gmail.com) to add links.
+Please feel free to send me [pull requests](https://github.com/zhjohnchan/awesome-image-captioning/pulls) or email (chihung.chan@outlook.com) to add links.
 Markdown format:
 ```markdown
 - [Paper Name](link) - Author 1 et al, `Conference Year`. [[code]](link)
 ```
 ## Change Log
 - Feb. 29 IJCAI'19, EMNLP'19 and AAAI'20 updated
+- Mar. 06 [Another related repository](https://github.com/zhjohnchan/awesome-radiology-report-generation) in medical domain updated
 
 ## Table of Contents
 - [Papers](#papers)
