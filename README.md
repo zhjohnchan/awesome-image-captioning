@@ -13,8 +13,8 @@ Markdown format:
 - [Paper Name](link) - Author 1 et al, `Conference Year`. [[code]](link)
 ```
 ## Change Log
-- Feb. 29 IJCAI'19, EMNLP'19 and AAAI'20 updated
 - Mar. 06 [Another related repository](https://github.com/zhjohnchan/awesome-radiology-report-generation) in medical domain updated
+- Jun. 13 CVPR'20 and ACL'20 updated
 
 ## Table of Contents
 - [Papers](#papers)
@@ -189,39 +189,50 @@ Markdown format:
 * [Show, Infer and Tell: Contextual Inference for Creative Captioning](https://bmvc2019.org/wp-content/uploads/papers/0655-paper.pdf) - Khare et al, `BMVC 2019`. [[code]](https://github.com/ankit1khare/Show_Infer_and_Tell-CIC)
 * [SC-RANK: Improving Convolutional Image Captioning with Self-Critical Learning and Ranking Metric-based Reward](https://bmvc2019.org/wp-content/uploads/papers/0936-paper.pdf) - Yan et al, `BMVC 2019`.
 #### *`ICCV 2019`*
-* [Hierarchy Parsing for Image Captioning](https://arxiv.org/pdf/1909.03918.pdf) - Yao et al, `ICCV 2019`.
-* [Entangled Transformer for Image Captioning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Entangled_Transformer_for_Image_Captioning_ICCV_2019_paper.pdf) - Li et al, `ICCV 2019`.
-* [Attention on Attention for Image Captioning](https://arxiv.org/abs/1908.06954) - Huang et al, `ICCV 2019`. [[code]](https://github.com/husthuaan/AoANet)
-* [Reflective Decoding Network for Image Captioning](https://arxiv.org/pdf/1908.11824.pdf) - Ke at al, `ICCV 2019`.
-* [Learning to Collocate Neural Modules for Image Captioning](https://arxiv.org/pdf/1904.08608.pdf) - Yang et al, `ICCV 2019`.
+* [Hierarchy Parsing for Image Captioning](https://arxiv.org/pdf/1909.03918.pdf) - Yao T et al, `ICCV 2019`.
+* [Entangled Transformer for Image Captioning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Entangled_Transformer_for_Image_Captioning_ICCV_2019_paper.pdf) - Li G et al, `ICCV 2019`.
+* [Attention on Attention for Image Captioning](https://arxiv.org/abs/1908.06954) - Huang L et al, `ICCV 2019`. [[code]](https://github.com/husthuaan/AoANet)
+* [Reflective Decoding Network for Image Captioning](https://arxiv.org/pdf/1908.11824.pdf) - Ke L at al, `ICCV 2019`.
+* [Learning to Collocate Neural Modules for Image Captioning](https://arxiv.org/pdf/1904.08608.pdf) - Yang X et al, `ICCV 2019`.
 #### *`NeurIPS 2019`*
-* [Image Captioning: Transforming Objects into Words](https://papers.nips.cc/paper/9293-image-captioning-transforming-objects-into-words) - Herdade et al, `NeurIPS 2019`.
-* [Adaptively Aligned Image Captioning via Adaptive Attention Time](https://arxiv.org/pdf/1909.09060.pdf) - Huang et al, `NeurIPS 2019`. [[code]](https://github.com/husthuaan/AAT)
-* [Variational Structured Semantic Inference for Diverse Image Captioning](https://papers.nips.cc/paper/8468-variational-structured-semantic-inference-for-diverse-image-captioning) - Chen et al, `NeurIPS 2019`.
-* [Aligning Visual Regions and Textual Concepts for Semantic-Grounded Image Representations](https://papers.nips.cc/paper/8909-aligning-visual-regions-and-textual-concepts-for-semantic-grounded-image-representations.pdf) - Liu et al, `NeurIPS 2019`. [[code]](https://github.com/fenglinliu98/MIA)
+* [Image Captioning: Transforming Objects into Words](https://papers.nips.cc/paper/9293-image-captioning-transforming-objects-into-words) - Herdade S et al, `NeurIPS 2019`.
+* [Adaptively Aligned Image Captioning via Adaptive Attention Time](https://arxiv.org/pdf/1909.09060.pdf) - Huang L et al, `NeurIPS 2019`. [[code]](https://github.com/husthuaan/AAT)
+* [Variational Structured Semantic Inference for Diverse Image Captioning](https://papers.nips.cc/paper/8468-variational-structured-semantic-inference-for-diverse-image-captioning) - Chen F et al, `NeurIPS 2019`.
+* [Aligning Visual Regions and Textual Concepts for Semantic-Grounded Image Representations](https://papers.nips.cc/paper/8909-aligning-visual-regions-and-textual-concepts-for-semantic-grounded-image-representations.pdf) - Liu F et al, `NeurIPS 2019`. [[code]](https://github.com/fenglinliu98/MIA)
 #### *`IJCAI 2019`*
-* [Image Captioning with Compositional Neural Module Networks](https://www.researchgate.net/profile/Junjiao_Tian/publication/334844176_Image_Captioning_with_Compositional_Neural_Module_Networks/links/5d784f49a6fdcc9961bfb7fd/Image-Captioning-with-Compositional-Neural-Module-Networks.pdf) - Tian et al, `IJCAI 2019`.
-* [Exploring and Distilling Cross-Modal Information for Image Captioning](https://www.ijcai.org/proceedings/2019/708) - Liu et al, `IJCAI 2019`.
-* [Swell-and-Shrink: Decomposing Image Captioning by Transformation and Summarization](https://www.ijcai.org/proceedings/2019/0726.pdf) - Wang et al, `IJCAI 2019`.
-* [Hornet: a hierarchical offshoot recurrent network for improving person re-ID via image captioning](https://arxiv.org/pdf/1908.04915) - Yan et al, `IJCAI 2019`.
+* [Image Captioning with Compositional Neural Module Networks](https://www.researchgate.net/profile/Junjiao_Tian/publication/334844176_Image_Captioning_with_Compositional_Neural_Module_Networks/links/5d784f49a6fdcc9961bfb7fd/Image-Captioning-with-Compositional-Neural-Module-Networks.pdf) - Tian J et al, `IJCAI 2019`.
+* [Exploring and Distilling Cross-Modal Information for Image Captioning](https://www.ijcai.org/proceedings/2019/708) - Liu F et al, `IJCAI 2019`.
+* [Swell-and-Shrink: Decomposing Image Captioning by Transformation and Summarization](https://www.ijcai.org/proceedings/2019/0726.pdf) - Wang H et al, `IJCAI 2019`.
+* [Hornet: a hierarchical offshoot recurrent network for improving person re-ID via image captioning](https://arxiv.org/pdf/1908.04915) - Yan S et al, `IJCAI 2019`.
 #### *`EMNLP 2019`*
-* [Image Captioning with Very Scarce Supervised Data: Adversarial Semi-Supervised Learning Approach](https://arxiv.org/pdf/1909.02201) - Kim et al, `EMNLP 2019`.
-* [TIGEr: Text-to-Image Grounding for Image Caption Evaluation](https://arxiv.org/pdf/1909.02050) - Jiang et al, `EMNLP 2019`.
-* [REO-Relevance, Extraness, Omission: A Fine-grained Evaluation for Image Captioning](https://arxiv.org/pdf/1909.02217) - Jiang et al, `EMNLP 2019`.
-* [Decoupled Box Proposal and Featurization with Ultrafine-Grained Semantic Labels Improve Image Captioning and Visual Question Answering](https://arxiv.org/pdf/1909.02097) - Changpinyo et al, `EMNLP 2019`.
+* [Image Captioning with Very Scarce Supervised Data: Adversarial Semi-Supervised Learning Approach](https://arxiv.org/pdf/1909.02201) - Kim D J et al, `EMNLP 2019`.
+* [TIGEr: Text-to-Image Grounding for Image Caption Evaluation](https://arxiv.org/pdf/1909.02050) - Jiang M et al, `EMNLP 2019`.
+* [REO-Relevance, Extraness, Omission: A Fine-grained Evaluation for Image Captioning](https://arxiv.org/pdf/1909.02217) - Jiang M et al, `EMNLP 2019`.
+* [Decoupled Box Proposal and Featurization with Ultrafine-Grained Semantic Labels Improve Image Captioning and Visual Question Answering](https://arxiv.org/pdf/1909.02097) - Changpinyo S et al, `EMNLP 2019`.
 
 ### 2020
 #### *`AAAI 2020`*
-* [MemCap: Memorizing Style Knowledge for Image Captioning]() - Zhao et al, `AAAI 2020`.
-* [Unified Vision-Language Pre-Training for Image Captioning and VQA]() - Zhou et al, `AAAI 2020`.
-* [Show, Recall, and Tell: Image Captioning with Recall Mechanism]() - Wang et al, `AAAI 2020`.
-* [Reinforcing an Image Caption Generator using Off-line Human Feedback]() - Hongsuck Seo et al, `AAAI 2020`.
-* [Interactive Dual Generative Adversarial Networks for Image Captioning]() - Liu et al, `AAAI 2020`.
-* [Feature Deformation Meta-Networks in Image Captioning of Novel Objects]() - Cao et al, `AAAI 2020`.
-* [Joint Commonsense and Relation Reasoning for Image and Video Captioning]() - Hou et al, `AAAI 2020`.
+* [MemCap: Memorizing Style Knowledge for Image Captioning](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhaoW.1402.pdf) - Zhao et al, `AAAI 2020`.
+* [Unified Vision-Language Pre-Training for Image Captioning and VQA](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhouL.362.pdf) - Zhou L et al, `AAAI 2020`.
+* [Show, Recall, and Tell: Image Captioning with Recall Mechanism](https://arxiv.org/abs/2001.05876) - Wang L et al, `AAAI 2020`.
+* [Reinforcing an Image Caption Generator using Off-line Human Feedback](https://arxiv.org/abs/1911.09753) - Hongsuck Seo P et al, `AAAI 2020`.
+* [Interactive Dual Generative Adversarial Networks for Image Captioning](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuJ.3970.pdf) - Liu et al, `AAAI 2020`.
+* [Feature Deformation Meta-Networks in Image Captioning of Novel Objects](https://aaai.org/Papers/AAAI/2020GB/AAAI-CaoT.4566.pdf) - Cao et al, `AAAI 2020`.
+* [Joint Commonsense and Relation Reasoning for Image and Video Captioning](https://wuxinxiao.github.io/assets/papers/2020/C-R_reasoning.pdf) - Hou et al, `AAAI 2020`.
 * [Learning Long- and Short-Term User Literal-Preference with Multimodal Hierarchical Transformer Network
-for Personalized Image Caption]() - Zhang et al, `AAAI 2020`.
+for Personalized Image Caption](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhangW.2192.pdf) - Zhang et al, `AAAI 2020`.
 
+#### *`CVPR 2020`*
+* [Normalized and Geometry-Aware Self-Attention Network for Image Captioning](https://arxiv.org/abs/2003.08897) - Guo L et al, `CVPR 2020`.
+* [Object Relational Graph with Teacher-Recommended Learning for Video Captioning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Object_Relational_Graph_With_Teacher-Recommended_Learning_for_Video_Captioning_CVPR_2020_paper.pdf) - Zhang Z et al, `CVPR 2020`.
+* [Say As You Wish: Fine-grained Control of Image Caption Generation with Abstract Scene Graphs](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Say_As_You_Wish_Fine-Grained_Control_of_Image_Caption_Generation_CVPR_2020_paper.pdf) - Chen S et al, `CVPR 2020`.
+
+#### *`ACL 2020`*
+* [Improving Image Captioning with Better Use of Caption]() - Shi Z et al, `ACL 2020`.
+* [Cross-modal Coherence Modeling for Caption Generation](https://arxiv.org/abs/2005.00908) - Alikhani M et al, `ACL 2020`.
+* [Improving Image Captioning Evaluation by Considering Inter References Variance]() - Yi Y et al, `ACL 2020`.
+* [MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning]() - Lei J et al, `ACL 2020`.
+* [Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA](https://arxiv.org/pdf/2005.06409) - Kim H et al, `ACL 2020`.
 
 
 ## Dataset
