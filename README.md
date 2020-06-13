@@ -209,6 +209,8 @@ Markdown format:
 * [TIGEr: Text-to-Image Grounding for Image Caption Evaluation](https://arxiv.org/pdf/1909.02050) - Jiang M et al, `EMNLP 2019`.
 * [REO-Relevance, Extraness, Omission: A Fine-grained Evaluation for Image Captioning](https://arxiv.org/pdf/1909.02217) - Jiang M et al, `EMNLP 2019`.
 * [Decoupled Box Proposal and Featurization with Ultrafine-Grained Semantic Labels Improve Image Captioning and Visual Question Answering](https://arxiv.org/pdf/1909.02097) - Changpinyo S et al, `EMNLP 2019`.
+#### *`CoNLL 2019`*
+* [Compositional Generalization in Image Captioning](https://arxiv.org/pdf/1909.04402.pdf) - Nikolaus M et al, `CoNLL 2019`. [[code]](https://github.com/mitjanikolaus/compositional-image-captioning)
 
 ### 2020
 #### *`AAAI 2020`*
