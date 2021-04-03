@@ -247,10 +247,14 @@ for Personalized Image Caption](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhangW.
 * [Learning Modality Interaction for Temporal Sentence Localization and Event Captioning in Videos](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490324.pdf) - Chen S et al, `ECCV 2020`.
 
 #### *`EMNLP 2020`*
+* [CapWAP: Image Captioning with a Purpose](https://www.aclweb.org/anthology/2020.emnlp-main.705) - Fisch A et al, `EMNLP 2020`.
 * [X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers](https://www.aclweb.org/anthology/2020.emnlp-main.707) - Cho J et al, `EMNLP 2020`.
 * [Video2Commonsense: Generating Commonsense Descriptions to Enrich Video Captioning](https://www.aclweb.org/anthology/2020.emnlp-main.61) - Fang Z et al, `EMNLP 2020`.
-* [CapWAP: Image Captioning with a Purpose](https://www.aclweb.org/anthology/2020.emnlp-main.705) - Fisch A et al, `EMNLP 2020`.
 * [Widget Captioning: Generating Natural Language Description for Mobile User Interface Elements](https://www.aclweb.org/anthology/2020.emnlp-main.443.pdf) - Li Y et al, `EMNLP 2020`.
+
+#### *`NeurIPS 2020`*
+* [Diverse Image Captioning with Context-Object Split Latent Spaces](https://papers.nips.cc/paper/2020/hash/24bea84d52e6a1f8025e313c2ffff50a-Abstract.html) - Mahajan S et al, `NeurIPS 2020`.
+* [RATT: Recurrent Attention to Transient Tasks for Continual Image Captioning](https://papers.nips.cc/paper/2020/hash/c2964caac096f26db222cb325aa267cb-Abstract.html) - Chiaro R et al, `NeurIPS 2020`.
 
 ## Dataset
 * [nocaps](https://nocaps.org/), LANG: `English`
