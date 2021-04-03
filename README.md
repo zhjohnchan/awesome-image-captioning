@@ -13,13 +13,12 @@ Markdown format:
 - [Paper Name](link) - Author 1 et al, `Conference Year`. [[code]](link)
 ```
 ## Change Log
-- Mar. 06 [Another related repository](https://github.com/zhjohnchan/awesome-radiology-report-generation) in medical domain updated
-- Jun. 13 CVPR'20 and ACL'20 updated
+- Apr. 4 ECCV'20 and EMNLP'20 updated
 
 ## Table of Contents
 - [Papers](#papers)
   - [Survey](#survey)
-  - [Before](#before) - [2015](#2015) - [2016](#2016) - [2017](#2017) - [2018](#2018) - [2019](#2019)
+  - [Before](#before) - [2015](#2015) - [2016](#2016) - [2017](#2017) - [2018](#2018) - [2019](#2019) - [2020](#2020)
 - [Dataset](#dataset)
 - [Image Captioning Challenge](#image-captioning-challenge)
 - [Popular Implementations](#popular-implementations)
@@ -234,6 +233,24 @@ for Personalized Image Caption](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhangW.
 * [MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning]() - Lei J et al, `ACL 2020`.
 * [Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA](https://arxiv.org/pdf/2005.06409) - Kim H et al, `ACL 2020`.
 
+#### *`ECCV 2020`*
+* [Length-Controllable Image Captioning](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580698.pdf) - Deng C et al, `ECCV 2020`.
+* [Captioning Images Taken by People Who Are Blind](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620409.pdf) - Gurari D et al, `ECCV 2020`.
+* [Towards Unique and Informative Captioning of Images](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520613.pdf) - Wang Z et al, `ECCV 2020`.
+* [Learning Visual Representations with Caption Annotations](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530154.pdf) - Sariyildiz M et al, `ECCV 2020`.
+* [Comprehensive Image Captioning via Scene Graph Decomposition](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590205.pdf) - Zhong Y et al, `ECCV 2020`.
+* [SODA: Story Oriented Dense Video Captioning Evaluation Framework](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510511.pdf) - Fujita S et al, `ECCV 2020`.
+* [TextCaps: a Dataset for Image Captioning with Reading Comprehension](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470732.pdf) - Sidorov O et al, `ECCV 2020`.
+* [Compare and Reweight: Distinctive Image Captioning Using Similar Images Sets](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460358.pdf) - Wang J et al, `ECCV 2020`.
+* [Learning to Generate Grounded Visual Captions without Localization Supervision](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630341.pdf) - Ma C et al, `ECCV 2020`.
+* [Fashion Captioning: Towards Generating Accurate Descriptions with Semantic Rewards](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580001.pdf) - Yang X et al, `ECCV 2020`.
+* [Learning Modality Interaction for Temporal Sentence Localization and Event Captioning in Videos](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490324.pdf) - Chen S et al, `ECCV 2020`.
+
+#### *`EMNLP 2020`*
+* [X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers](https://www.aclweb.org/anthology/2020.emnlp-main.707) - Cho J et al, `EMNLP 2020`.
+* [Video2Commonsense: Generating Commonsense Descriptions to Enrich Video Captioning](https://www.aclweb.org/anthology/2020.emnlp-main.61) - Fang Z et al, `EMNLP 2020`.
+* [CapWAP: Image Captioning with a Purpose](https://www.aclweb.org/anthology/2020.emnlp-main.705) - Fisch A et al, `EMNLP 2020`.
+* [Widget Captioning: Generating Natural Language Description for Mobile User Interface Elements](https://www.aclweb.org/anthology/2020.emnlp-main.443.pdf) - Li Y et al, `EMNLP 2020`.
 
 ## Dataset
 * [nocaps](https://nocaps.org/), LANG: `English`
