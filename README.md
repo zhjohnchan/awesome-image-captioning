@@ -225,6 +225,7 @@ for Personalized Image Caption](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhangW.
 * [Normalized and Geometry-Aware Self-Attention Network for Image Captioning](https://arxiv.org/abs/2003.08897) - Guo L et al, `CVPR 2020`.
 * [Object Relational Graph with Teacher-Recommended Learning for Video Captioning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Object_Relational_Graph_With_Teacher-Recommended_Learning_for_Video_Captioning_CVPR_2020_paper.pdf) - Zhang Z et al, `CVPR 2020`.
 * [Say As You Wish: Fine-grained Control of Image Caption Generation with Abstract Scene Graphs](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Say_As_You_Wish_Fine-Grained_Control_of_Image_Caption_Generation_CVPR_2020_paper.pdf) - Chen S et al, `CVPR 2020`.
+* [X-Linear Attention Networks for Image Captioning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pan_X-Linear_Attention_Networks_for_Image_Captioning_CVPR_2020_paper.pdf) - Pan et al, `CVPR 2020`.
 
 #### *`ACL 2020`*
 * [Improving Image Captioning with Better Use of Caption]() - Shi Z et al, `ACL 2020`.
