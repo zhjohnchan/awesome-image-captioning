@@ -228,7 +228,7 @@ for Personalized Image Caption](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhangW.
 * [X-Linear Attention Networks for Image Captioning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pan_X-Linear_Attention_Networks_for_Image_Captioning_CVPR_2020_paper.pdf) - Pan et al, `CVPR 2020`.
 
 #### *`ACL 2020`*
-* [Improving Image Captioning with Better Use of Caption]() - Shi Z et al, `ACL 2020`.
+* [Improving Image Captioning with Better Use of Caption](https://arxiv.org/abs/2006.11807) - Shi Z et al, `ACL 2020`.
 * [Cross-modal Coherence Modeling for Caption Generation](https://arxiv.org/abs/2005.00908) - Alikhani M et al, `ACL 2020`.
 * [Improving Image Captioning Evaluation by Considering Inter References Variance]() - Yi Y et al, `ACL 2020`.
 * [MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning]() - Lei J et al, `ACL 2020`.
