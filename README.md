@@ -13,7 +13,7 @@ Markdown format:
 - [Paper Name](link) - Author 1 et al, `Conference Year`. [[code]](link)
 ```
 ## Change Log
-- Apr. 4 ECCV'20 and EMNLP'20 updated
+- May 25 An up-to-date paper list about vision-and-language pre-training is available [here](https://github.com/zhjohnchan/awesome-vision-and-language-pretraining).
 
 ## Table of Contents
 - [Papers](#papers)
