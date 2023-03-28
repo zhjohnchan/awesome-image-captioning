@@ -279,7 +279,6 @@ for Personalized Image Caption](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhangW.
 * [ruotianluo/ImageCaptioning.pytorch](https://github.com/ruotianluo/ImageCaptioning.pytorch)
 * [jiasenlu/NeuralBabyTalk](https://github.com/jiasenlu/NeuralBabyTalk)
 ### TensorFlow
-* [tensorflow/models/im2txt](https://github.com/tensorflow/models/tree/master/research/im2txt)
 * [DeepRNN/image_captioning](https://github.com/DeepRNN/image_captioning)
 ### Torch
 * [jcjohnson/densecap](https://github.com/jcjohnson/densecap)
